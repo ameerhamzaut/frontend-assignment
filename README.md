@@ -8,7 +8,7 @@ Shipment tracker is react application which demonstrates the following
 
 
 
-# Cloning and Running the Application in local
+# Cloning and Running the Application in local.
 
 Clone the project into local
 
